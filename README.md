@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Me chamo Thiago Mota, tenho 20 anos e sou natural do Ceará. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNOPAR, simultaneamente com o curso de Full-stack da Digital College. Foi aos 17 anos que a tecnologia deixou de ser apenas uma curiosidade e passou a ser meu propósito profissional. Costumo desenvolver projetos com os conhecimentos que adquiro e compartilho eles em minhas redes sociais.
+Me chamo Thiago Mota, tenho 20 anos e sou natural do Ceará. Formado em Análise e Desenvolvimento de Sistemas (Tecnólogo) pela UNOPAR e com formação complementar em Desenvolvimento Full Stack pela Digital College. Foi aos 17 anos que a tecnologia deixou de ser apenas uma curiosidade e passou a ser meu propósito profissional. Costumo desenvolver projetos com os conhecimentos que adquiro e compartilho eles em minhas redes sociais.
 
 <a href="https://www.linkedin.com/in/thiago-mota-32332a268/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/thiagou.mota/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
