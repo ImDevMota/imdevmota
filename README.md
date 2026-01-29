@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Full-Stack`**
 
-Tecnófilo em constante aprendizado. Viciado em basquete, automação e games.
+Desenvolvedor e Tecnófilo em constante aprendizado. Viciado em basquete, automação e games.
 
 <a href="https://www.linkedin.com/in/thiago-mota-32332a268/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href ="mailto:thiago.you23@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
