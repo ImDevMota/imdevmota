@@ -1,66 +1,56 @@
-# 👨🏽‍💻 Thiago Mota
+# Thiago Mota
 
-**`Desenvolvedor Full-Stack`**
+**`Software Enginner`**
 
-Desenvolvedor e Tecnófilo em constante aprendizado. Viciado em basquete, automação e games.
+I am a software developer driven by technical curiosity and a commitment to excellence. As a technophile, studying new technologies is my main hobby. I focus on writing clean and reusable code, applying this passion to create intelligent solutions. I am an enthusiast of collaboration and dedicate part of my time to studying and practicing algorithms to constantly improve my problem-solving skills.
 
 <a href="https://www.linkedin.com/in/thiago-mota-32332a268/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href ="mailto:thiago.you23@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.tiktok.com/@motathedev?_r=1&_t=ZS-93SDmfviNfw" target="_blank">
-  <img src="https://img.shields.io/badge/-TikTok-%23000000?style=for-the-badge&logo=tiktok&logoColor=white">
-</a>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🧰 Languages and Tools
 
 <img 
     align="left" 
-    alt="Java" 
-    title="Java"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 <img 
     align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/springboot-initializer.svg" 
 />
 <img 
     align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
     width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+    style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/docker.svg" 
 />
 <img 
     align="left" 
-    alt="React"
-    title="React" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/aws-light.svg" 
 />
 <img 
     align="left" 
-    alt="Node"
-    title="Node" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/typescript.svg" 
+/>
+<img 
+    align="left" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/nextjs-light.svg" 
+/>
+<img 
+    align="left"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
 <img 
     align="left" 
